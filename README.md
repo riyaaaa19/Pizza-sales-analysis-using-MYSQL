@@ -77,4 +77,4 @@ Feel free to contribute by improving queries or suggesting additional analyses.
 ---
 
 ### 📧 **Contact**
-For queries or suggestions, reach out at: **riya.saraf@gmail.com**
+For queries or suggestions, reach out at: **riyasaraf19@gmail.com**
